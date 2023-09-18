@@ -1,5 +1,5 @@
 //Codigo que recopila Colores
-	//Realizado por Ricardo Daniel Hernandez Sosa ( plvsan999@gmail.com )
+	//Realizado por Ricardo Daniel Hernandez Sosa
 	//Seudonimo: Plans Vs Angry 999
 #include<iostream>
 	//Colores
